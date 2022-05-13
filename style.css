@@ -84,6 +84,11 @@ button:hover{
     align-items: center;
 }
 
+#highScore{
+    height: 1.5rem;
+    border: groove 2px;
+}
+
 #highscorePage{
     display: none;
     width: 50%;
